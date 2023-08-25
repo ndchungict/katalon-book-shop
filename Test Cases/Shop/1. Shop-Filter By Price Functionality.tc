@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1. Shop-Filter By Price Functionality</name>
+   <tag>shop,smoke</tag>
+   <comment></comment>
+   <testCaseGuid>d73c9b41-028d-40d6-a824-edce971398cd</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f2a4dc19-05a6-41da-b051-c74832322948</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>eaad9e5f-948f-47bf-ba0f-d39eba8bd23e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b6be503f-db90-4c0c-8df6-f862bb07e90e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>150</defaultValue>
+      <description></description>
+      <id>f2a4dc19-05a6-41da-b051-c74832322948</id>
+      <masked>false</masked>
+      <name>min_price</name>
+   </variable>
+   <variable>
+      <defaultValue>450</defaultValue>
+      <description></description>
+      <id>eaad9e5f-948f-47bf-ba0f-d39eba8bd23e</id>
+      <masked>false</masked>
+      <name>max_price</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>b6be503f-db90-4c0c-8df6-f862bb07e90e</id>
+      <masked>false</masked>
+      <name>expectedMaxPrice</name>
+   </variable>
+</TestCaseEntity>

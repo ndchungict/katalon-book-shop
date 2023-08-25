@@ -7,6 +7,26 @@
    <GlobalVariableEntity>
       <description></description>
       <initValue>'https://practice.automationtesting.in'</initValue>
-      <name>G_HOME_URL</name>
+      <name>G_WEB_BASE_URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>10</initValue>
+      <name>G_DEFAULT_TIMEOUT</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'chungnd@auto.com'</initValue>
+      <name>G_USER_SUCCESS</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'C3KUO0Hb*5'</initValue>
+      <name>G_VALID_PASSWORD</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'chungnd@auto.com'</initValue>
+      <name>G_REGISTERED_USERNAME</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description>Login Test Data</description>
+   <name>Login Test Data</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>a075d39e-a8a5-417a-9b65-3b32412a758c</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>1 chungnd%40auto.com C3KUO0Hb*5 null Login+Success</data>
+   <data>2 incorrectUsr%40mail.com incorrecPass Error%3A+A+user+could+not+be+found+with+this+email+address. Incorrect+user+and+pass</data>
+   <data>3 chungnd%40auto.com null Error%3A+Password+is+required. correct+user+and+empty+pass</data>
+   <data>4 null C3KUO0Hb*5 Error%3A+Username+is+required. empty+user+and+valid+pass</data>
+   <data>5 null null Error%3A+Username+is+required. empty+user+and+empty+pass</data>
+   <data>6 incorrectUsr%40mail.com incorrecPass null password+shoudl+be+masked</data>
+   <data>7 CHUNGND%40AUTO.COM C3KUO0Hb*5 null handles+case</data>
+   <data>8 chungnd%40auto.com C3KUO0Hb*5 null login+authen</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>tcid</name>
+      <size>8</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>username</name>
+      <size>8</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>password</name>
+      <size>8</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>3</columnIndex>
+      <name>message</name>
+      <size>8</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>4</columnIndex>
+      <name>note</name>
+      <size>8</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

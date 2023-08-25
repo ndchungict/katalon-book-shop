@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Registration Success</name>
+   <tag>register</tag>
+   <comment></comment>
+   <testCaseGuid>06085c9e-54dc-46f6-a07c-b5b1e955f66c</testCaseGuid>
+</TestCaseEntity>

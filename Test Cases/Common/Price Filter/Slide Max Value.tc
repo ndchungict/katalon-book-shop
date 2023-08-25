@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Slide Max Value</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>db5e7dfd-d812-4a43-bf4a-5109b7ddea4e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e1554fad-2773-414b-afda-da6ab86b25a8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>e1554fad-2773-414b-afda-da6ab86b25a8</id>
+      <masked>false</masked>
+      <name>expectedMaxPrice</name>
+   </variable>
+</TestCaseEntity>

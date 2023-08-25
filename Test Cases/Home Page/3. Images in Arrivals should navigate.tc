@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>3. Images in Arrivals should navigate</name>
+   <tag>homepage</tag>
+   <comment></comment>
+   <testCaseGuid>b0c23430-9f60-4dd9-9f33-b11b5d0077b3</testCaseGuid>
+</TestCaseEntity>

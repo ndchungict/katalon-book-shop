@@ -3,7 +3,7 @@
    <description></description>
    <name>menuShop</name>
    <tag></tag>
-   <elementGuidId>7fc94237-e2bd-4195-890f-35baa56c5bee</elementGuidId>
+   <elementGuidId>ad804b55-079a-4ce4-be71-c492a920adf5</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//ul[@id='main-nav']/li/a[text()='Shop']</value>
+         <value>//ul[@id='main-nav']//a[text()='Shop']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

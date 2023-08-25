@@ -3,7 +3,7 @@
    <description></description>
    <name>menuMyAccount</name>
    <tag></tag>
-   <elementGuidId>e266a09b-ed4d-4021-b294-ef2ea95025a0</elementGuidId>
+   <elementGuidId>c5261c38-40dd-43c0-9807-b922deb89455</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//ul[@id='main-nav']/li/a[text()='My Account']</value>
+         <value>//ul[@id='main-nav']//a[text()='My Account']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

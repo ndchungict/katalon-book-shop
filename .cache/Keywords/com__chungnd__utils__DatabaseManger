@@ -1,5 +1,5 @@
 {
-  "keywordFileContentHash": "8DB446E155C816E5A558FBCF71A3D4AC",
+  "keywordFileContentHash": "E152267AE40CFF1298D77604570E7F76",
   "keywordClasses": [
     {
       "name": "com.chungnd.utils.DatabaseManger",
@@ -72,7 +72,8 @@
                 "errorOnParsing": false
               }
             }
-          ]
+          ],
+          "javadoc": "/**\r\n\t * Open and return a connection to oracle database\r\n\t * @return an instance of connection\r\n\t */"
         },
         {
           "name": "executeQuery",
@@ -90,11 +91,13 @@
                 "errorOnParsing": false
               }
             }
-          ]
+          ],
+          "javadoc": "/**\r\n\t * execute a SQL query on database\r\n\t * @param queryString SQL query string\r\n\t * @return a reference to returned data collection\r\n\t */"
         },
         {
           "name": "closeDatabaseConnection",
-          "parameters": []
+          "parameters": [],
+          "javadoc": ""
         },
         {
           "name": "execute",
@@ -112,10 +115,11 @@
                 "errorOnParsing": false
               }
             }
-          ]
+          ],
+          "javadoc": "/**\r\n\t * Execute non-query (usually INSERT/UPDATE/DELETE/COUNT/SUM...) on database\r\n\t * @param queryString a SQL statement\r\n\t * @return single value result of SQL statement\r\n\t */"
         }
       ]
     }
   ],
-  "javadocParsed": false
+  "javadocParsed": true
 }

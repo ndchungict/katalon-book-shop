@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
-   <description></description>
+   <description>Automation test website https://practice.automationtesting.in
+Using katalon Studio</description>
    <name>katalon-book-shop</name>
    <tag></tag>
-   <UUID>dbf6e830-f8d0-4562-b52f-cce6c238ac98</UUID>
+   <UUID>daa06913-9be1-4502-a1dc-9e1022665867</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>D:\Project\katalon-book-shop\katalon-book-shop.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

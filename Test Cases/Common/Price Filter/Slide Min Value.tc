@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Slide Min Value</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1e79822c-a159-4487-a7ae-d26ed46fea5f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fe8f3cd4-2982-4b62-a1c0-2a7bef5cbefa</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>150</defaultValue>
+      <description></description>
+      <id>fe8f3cd4-2982-4b62-a1c0-2a7bef5cbefa</id>
+      <masked>false</masked>
+      <name>expectedMinPrice</name>
+   </variable>
+</TestCaseEntity>

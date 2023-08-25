@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Register Test Data</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>51667c92-f862-461d-83bd-43efd248ad57</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>1 null null null not+use+this+line</data>
+   <data>2 a C3KUO0Hb*5 Please+include+an+%27%40%27+in+the+email+address.+%27a%27+is+missing+an+%27%40%27. invalid+email</data>
+   <data>3 null C3KUO0Hb*5 Error%3A+Please+provide+a+valid+email+address. empty+email</data>
+   <data>4 emptypass%40das.com null Error%3A+Please+enter+an+account+password. empty+pass</data>
+   <data>5 null null Error%3A+Please+provide+a+valid+email+address. empty+email+%2B+pass</data>
+   <data>6 chungnd%40auto.com C3KUO0Hb*5 Error%3A+An+account+is+already+registered+with+your+email+address.+Please+login. enter+registered+email</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>tcid</name>
+      <size>6</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>reg_email</name>
+      <size>6</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>reg_password</name>
+      <size>6</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>3</columnIndex>
+      <name>message</name>
+      <size>6</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>4</columnIndex>
+      <name>note</name>
+      <size>6</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

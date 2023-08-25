@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textboxEmail</name>
+   <tag></tag>
+   <elementGuidId>99c5635d-2bed-4ad6-8ad5-ca280bb1d4ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'reg_email']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tagName</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>451d87c0-535e-4230-beb8-2592ca57a74e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>reg_email</value>
+      <webElementGuid>05cf8ca2-a138-4436-84dd-212d2e43513b</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1. Home Page with three Slider only</name>
+   <tag>homepage,smoke</tag>
+   <comment></comment>
+   <testCaseGuid>ebf4d074-08a5-4dd1-9317-f95786c2f140</testCaseGuid>
+</TestCaseEntity>

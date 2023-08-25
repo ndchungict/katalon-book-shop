@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>sliders</name>
+   <name>Sliders</name>
    <tag></tag>
-   <elementGuidId>a40b3cf0-d373-4b80-afab-3999cd0fbf18</elementGuidId>
-   <selectorMethod>BASIC</selectorMethod>
+   <elementGuidId>b63ac4aa-02b9-4ff6-8b89-1a44dd57ad53</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[contains(@class,'slide-background-image')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
 </WebElementEntity>

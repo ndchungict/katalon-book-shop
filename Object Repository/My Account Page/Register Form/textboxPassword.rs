@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textboxPassword</name>
+   <tag></tag>
+   <elementGuidId>c68c60d2-5463-4f02-b4c3-c49a87371f1d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'reg_password']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tagName</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>91b23d76-f3bf-4219-8c3e-abd8b2597b7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>reg_password</value>
+      <webElementGuid>ef77f9d1-ba3c-416e-8c87-e9f982ab9d0c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
