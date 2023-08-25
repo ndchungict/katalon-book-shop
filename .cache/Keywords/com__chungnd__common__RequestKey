@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "577DEF271722311FDB7C34CB739DCB1E",
+  "keywordClasses": [
+    {
+      "name": "com.chungnd.common.RequestKey",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

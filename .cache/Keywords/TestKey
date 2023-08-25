@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "AC057514A5250F592131F3119DAB7DEC",
+  "keywordClasses": [
+    {
+      "name": "TestKey",
+      "keywordMethods": [
+        {
+          "name": "testcurrency",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

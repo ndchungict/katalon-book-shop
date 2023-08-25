@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "FB54F5560EB9A1C75A5CAE4E57F3402A",
+  "keywordClasses": [
+    {
+      "name": "com.chungnd.tester.TestKey",
+      "keywordMethods": [
+        {
+          "name": "testcurrency",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
